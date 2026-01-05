@@ -64,15 +64,12 @@ The dataset includes the following information:
 ---
 
 
-## Repository Structure
+## Files
 
-```
-QuickCart-Sales-Analytics/
-│
-├── QuickCart Data.xlsx
-├── QuickCart Analytics.ipynb
-└── README.md
-```
+[QuickCart Data.xlsx](https://github.com/zubair-kacheri/Quick-Cart-Sales-Performance-Analytics/blob/main/QuickCart%20Data.xlsx)
+
+[QuickCart Analytics.ipynb](https://github.com/zubair-kacheri/Quick-Cart-Sales-Performance-Analytics/blob/main/QuickCart%20Analytics.ipynb)
+
 
 ---
 
